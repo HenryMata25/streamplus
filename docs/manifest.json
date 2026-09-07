@@ -2,7 +2,7 @@
   "name": "StreamPlus",
   "short_name": "StreamPlus",
   "description": "Tu plataforma de películas y series",
-  "start_url": "/",
+  "start_url": "https://cinestreamcr.blogspot.com/",
   "display": "standalone",
   "background_color": "#050505",
   "theme_color": "#000000",
