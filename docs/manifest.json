@@ -1,0 +1,18 @@
+{
+  "name": "StreamPlus",
+  "short_name": "StreamPlus",
+  "description": "Tu plataforma de películas y series",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#050505",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://i.ibb.co/gM18t4x0/stream.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
